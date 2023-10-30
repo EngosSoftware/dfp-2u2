@@ -1,6 +1,6 @@
 # Intel® Decimal Floating-Point Math Library v2.2 Playground
 
-Repository used as a playground for **Intel® Decimal Floating-Point Math Library v2.2**.
+Repository used as a playground for **Intel® Decimal Floating-Point Math Library v2.2**
 
 
 Original sources of **Intel® Decimal Floating-Point Math Library v2.2** can be downloaded from
