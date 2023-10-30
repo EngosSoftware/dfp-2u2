@@ -1,0 +1,10 @@
+version: '3'
+
+silent: true
+
+tasks:
+
+  pp:
+    desc: Generates preprocessed sources
+    cmds:
+      - cmd: ./scripts/pp.sh
