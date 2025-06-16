@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 3.31)
 
-project(dfp2u2 C)
+project(dfp20u2 C)
 
 set(CMAKE_C_STANDARD 99)
 
@@ -261,8 +261,8 @@ add_compile_definitions(linux)
 
 add_compile_options(-Wno-implicit-function-declaration)
 
-add_library(dfp2u2 ${SOURCES})
+add_library(dfp20u2 ${SOURCES})
 
-add_executable(dfp2u2-bin app/main.c)
+add_executable(dfp20u2bin app/main.c)
 
-target_link_libraries(dfp2u2-bin dfp2u2)
+target_link_libraries(dfp20u2bin dfp20u2)
